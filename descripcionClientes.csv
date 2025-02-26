@@ -1,0 +1,143 @@
+ID del cliente,Nombre,Última fecha de compra,Frecuencia de compra,Valor promedio de la compra,Categoría de productos comprados,Método de pago,Edad
+1,Juan Perez,15/03/2022,5,200.5,Ropa,Tarjeta de crédito,32.0
+2,Ana Rodriguez,01/04/2022,2,80.0,Juguetes,Efectivo,45.0
+3,Luisa Hernandez,10/12/2021,3,150.2,Electrónica,Transferencia bancaria,28.0
+4,Carlos Garcia,28/02/2022,1,300.0,Alimentos,Tarjeta de crédito,50.0
+5,Maria Gomez,20/03/2022,4,75.8,Ropa,Efectivo,22.0
+6,Daniel Torres,12/04/2022,2,120.4,Electrónica,Tarjeta de crédito,36.0
+7,Lucia Diaz,29/03/2022,3,100.0,Juguetes,Transferencia bancaria,42.0
+8,Pedro Lopez,30/11/2021,1,50.0,Alimentos,Efectivo,29.0
+9,Sofia Gonzalez,15/01/2022,2,90.3,Ropa,Tarjeta de crédito,80.0
+10,Andres Suarez,20/04/2022,4,60.5,Juguetes,Efectivo,25.0
+11,Laura Castro,10/03/2022,3,170.2,Electrónica,Tarjeta de crédito,27.0
+12,Oscar Ramirez,15/02/2022,1,280.0,Alimentos,Transferencia bancaria,47.0
+13,Ana Maria Vega,05/01/2022,2,120.8,Ropa,Efectivo,38.0
+14,Luis Torres,18/04/2022,5,90.0,Juguetes,Tarjeta de crédito,23.0
+15,Andrea Medina,23/03/2022,3,110.5,Electrónica,Transferencia bancaria,26.0
+16,Juan Carlos,10/04/2022,2,65.2,Alimentos,Efectivo,33.0
+19,Ana Karenina,03/04/2022,2,95.2,Juguetes,Transferencia bancaria,30.0
+20,Diego Sanchez,20/02/2022,1,180.0,Electrónica,Efectivo,48.0
+21,Natalia Gomez,20/03/2022,3,75.8,Alimentos,Tarjeta de crédito,22.0
+22,Luisa Perez,13/04/2022,2,105.9,Ropa,Efectivo,37.0
+23,Carlos Rodriguez,31/03/2022,4,65.5,Juguetes,Transferencia bancaria,28.0
+24,Maria Lopez,31/01/2022,1,220.0,Electrónica,Tarjeta de crédito,54.0
+25,Javier Gonzalez,21/04/2022,3,140.3,Alimentos,Transferencia bancaria,34.0
+26,Sofia Torres,11/03/2022,2,80.2,Ropa,Efectivo,31.0
+27,Andres Flores,20/04/2022,4,75.6,Juguetes,Tarjeta de crédito,26.0
+28,Laura Martinez,10/03/2022,3,200.1,Electrónica,Transferencia bancaria,27.0
+29,Oscar Gutierrez,15/02/2022,1,260.0,Alimentos,Efectivo,43.0
+30,Ana Romero,05/01/2022,2,100.8,Ropa,Tarjeta de crédito,36.0
+31,Luisa Diaz,18/04/2022,5,95.0,Juguetes,Efectivo,24.0
+34,Claudia Silva,01/03/2022,2,55.9,Ropa,Efectivo,29.0
+35,Jose Hernandez,05/04/2022,4,130.25,Juguetes,Tarjeta de crédito,42.0
+36,Diana Chavez,23/02/2022,1,160.0,Electrónica,Transferencia bancaria,35.0
+37,Ricardo Mendez,18/03/2022,3,45.7,Alimentos,Efectivo,19.0
+39,Luis Perez,11/02/2022,1,280.0,Juguetes,Tarjeta de crédito,2.0
+40,Sofia Rodriguez,17/04/2022,3,98.6,Electrónica,Efectivo,32.0
+41,Alberto Torres,28/01/2022,2,50.8,Alimentos,Tarjeta de crédito,21.0
+42,Julia Martinez,22/04/2022,4,90.7,Ropa,Transferencia bancaria,33.0
+43,Daniel Castro,12/03/2022,3,3110.0,Juguetes,Tarjeta de crédito,24.0
+44,Ana Flores,20/04/2022,1,200.0,Electrónica,Efectivo,41.0
+45,Luisa Hernandez,15/01/2022,2,80.6,Alimentos,Transferencia bancaria,28.0
+47,Andrea Chavez,27/03/2022,3,120.8,Juguetes,Transferencia bancaria,29.0
+48,Carlos Flores,21/04/2022,2,70.9,Electrónica,Tarjeta de crédito,30.0
+49,Alejandra Torres,08/03/2022,1,180.0,Alimentos,Efectivo,36.0
+50,Gabriela Morales,12/04/2022,2,65.3,Ropa,Efectivo,31.0
+51,Mario Perez,29/03/2022,1,170.0,Juguetes,Transferencia bancaria,37.0
+53,Eduardo Rivera,28/02/2022,3,90.7,Alimentos,Efectivo,25.0
+54,Laura Gonzalez,22/04/2022,2,75.0,Ropa,Transferencia bancaria,33.0
+56,Ana Flores,23/04/2022,5,55.6,Electrónica,Efectivo,27.0
+57,Luisa Ramirez,15/02/2022,3,110.8,Alimentos,Transferencia bancaria,30.0
+58,Juan Hernandez,20/04/2022,2,60.9,Ropa,Efectivo,26.0
+59,Maria Ortiz,05/03/2022,1,160.0,Juguetes,Tarjeta de crédito,42.0
+60,Ana Hernandez,16/04/2022,4,130.7,Electrónica,Transferencia bancaria,35.0
+62,Alejandra Garcia,11/04/2022,2,85.9,Ropa,Tarjeta de crédito,28.0
+63,Pedro Sanchez,22/03/2022,1,190.0,Juguetes,Efectivo,39.0
+64,Claudia Torres,15/04/2022,5,75.5,Electrónica,Transferencia bancaria,32.0
+66,Ana Ramirez,01/05/2022,2,90.0,Ropa,Transferencia bancaria,27.0
+67,Juan Castro,25/04/2022,1,150.0,Juguetes,Tarjeta de crédito,44.0
+68,Carlos Fernandez,03/05/2022,3,80.2,Electrónica,Efectivo,29.0
+69,Sofia Dominguez,31/03/2022,2,50.5,Alimentos,Transferencia bancaria,24.0
+70,David Mendez,06/05/2022,1,190.0,Ropa,Efectivo,37.0
+72,Jose Rodriguez,07/05/2022,2,45.8,Electrónica,Tarjeta de crédito,22.0
+73,Maria Lopez,19/03/2022,3,85.2,Alimentos,Efectivo,28.0
+75,Ana Torres,02/04/2022,1,140.0,Juguetes,Efectivo,43.0
+76,Laura Gutierrez,05/05/2022,3,60.7,Electrónica,Transferencia bancaria,3.0
+77,Roberto Ramirez,09/03/2022,2,35.9,Alimentos,Tarjeta de crédito,21.0
+78,Andrea Hernandez,28/04/2022,1,100.0,Ropa,Efectivo,26.0
+79,Pedro Castro,08/05/2022,2,180.5,Juguetes,Transferencia bancaria,38.0
+80,Monica Rodriguez,30/03/2022,5,95.6,Electrónica,Tarjeta de crédito,31.0
+82,Luis Torres,03/05/2022,2,60.0,Ropa,Efectivo,27.0
+83,Ana Garcia,28/04/2022,1,120.0,Juguetes,Tarjeta de crédito,45.0
+84,Maria Vega,01/05/2022,3,70.8,Electrónica,Transferencia bancaria,29.0
+85,Carlos Gonzalez,27/03/2022,2,40.5,Alimentos,Efectivo,24.0
+86,Sofia Castro,06/05/2022,1,160.0,Ropa,Tarjeta de crédito,37.0
+87,Juan Hernandez,30/04/2022,4,130.2,Juguetes,Transferencia bancaria,33.0
+90,Maria Garcia,05/05/2022,2,90.0,Ropa,Efectivo,25.0
+91,Luisa Vega,05/04/2022,1,110.0,Juguetes,Tarjeta de crédito,43.0
+92,Roberto Mendoza,09/05/2022,3,65.2,Electrónica,Transferencia bancaria,30.0
+93,Andrea Rodriguez,11/03/2022,2,30.9,Alimentos,Efectivo,21.0
+94,Ana Fernandez,27/04/2022,1,80.0,Ropa,Tarjeta de crédito,26.0
+95,Pedro Hernandez,08/05/2022,2,150.5,Juguetes,Transferencia bancaria,38.0
+96,Monica Castro,29/03/2022,5,85.6,Electrónica,Tarjeta de crédito,31.0
+98,Andrea Vega,07/05/2022,2,70.0,Ropa,Efectivo,27.0
+99,Juan Perez,30/04/2022,1,120.0,Juguetes,Tarjeta de crédito,44.0
+100,Laura Ortiz,02/05/2022,3,55.6,Electrónica,Transferencia bancaria,29.0
+101,Jose Rodriguez,28/03/2022,2,45.5,Alimentos,Efectivo,23.0
+102,Ana Hernandez,08/05/2022,1,180.0,Ropa,Tarjeta de crédito,38.0
+103,Daniel Ortiz,30/04/2022,4,150.2,Juguetes,Transferencia bancaria,34.0
+104,Sofia Mendoza,09/05/2022,2,70.7,Electrónica,Tarjeta de crédito,21.0
+105,Alejandro Torres,21/03/2022,3,65.6,Alimentos,Transferencia bancaria,28.0
+106,Mariana Vega,06/05/2022,2,80.0,Ropa,Efectivo,25.0
+107,Manuel Garcia,02/04/2022,1,100.0,Juguetes,Tarjeta de crédito,42.0
+108,Ana Torres,10/05/2022,3,60.9,Electrónica,Transferencia bancaria,31.0
+109,Carlos Rodriguez,07/03/2022,2,35.9,Alimentos,Efectivo,20.0
+110,Andrea Hernandez,29/04/2022,1,70.0,Ropa,Tarjeta de crédito,26.0
+111,Luis Perez,07/05/2022,2,140.5,Juguetes,Transferencia bancaria,39.0
+112,Karen Castro,31/03/2022,5,90.6,Electrónica,Tarjeta de crédito,32.0
+115,Pedro Hernandez,23/03/2022,2,70.0,Juguetes,Tarjeta de crédito,40.0
+116,Ana Perez,03/05/2022,3,80.6,Electrónica,Efectivo,22.0
+117,Luisa Ortiz,01/04/2022,2,50.2,Alimentos,Transferencia bancaria,27.0
+118,Juanita Mendoza,12/05/2022,1,200.0,Ropa,Tarjeta de crédito,35.0
+119,Javier Torres,30/03/2022,4,130.0,Juguetes,Efectivo,31.0
+120,Andrea Soto,13/05/2022,2,75.0,Electrónica,Tarjeta de crédito,24.0
+121,Luis Garcia,16/03/2022,3,90.2,Alimentos,Transferencia bancaria,29.0
+122,Alejandra Torres,09/05/2022,2,65.5,Ropa,Efectivo,26.0
+123,Alberto Ortiz,03/04/2022,1,85.0,Juguetes,Tarjeta de crédito,43.0
+125,Jorge Perez,08/03/2022,2,40.0,Alimentos,Efectivo,21.0
+126,Ana Hernandez,10/05/2022,1,90.0,Ropa,Tarjeta de crédito,28.0
+127,Juanita Torres,08/05/2022,2,130.5,Juguetes,Transferencia bancaria,41.0
+128,Roberto Garcia,24/03/2022,5,70.6,Electrónica,Efectivo,34.0
+130,Ana Garcia,02/06/2022,1,70.0,Ropa,Transferencia bancaria,37.0
+131,Luisa Castro,07/06/2022,2,110.5,Juguetes,Tarjeta de crédito,24.0
+132,Daniel Gomez,05/06/2022,3,95.0,Electrónica,Efectivo,45.0
+133,Carlos Rodriguez,12/06/2022,2,40.2,Alimentos,Transferencia bancaria,31.0
+134,Sofia Sanchez,01/06/2022,1,80.0,Ropa,Efectivo,28.0
+135,David Torres,06/06/2022,4,65.5,Juguetes,Tarjeta de crédito,33.0
+136,Patricia Gomez,08/06/2022,2,120.0,Electrónica,Transferencia bancaria,29.0
+137,Julia Hernandez,04/06/2022,3,70.2,Alimentos,Efectivo,39.0
+138,Maria Ortiz,10/06/2022,2,60.0,Ropa,Tarjeta de crédito,23.0
+139,Oscar Perez,03/06/2022,1,95.0,Juguetes,Transferencia bancaria,42.0
+140,Andrea Torres,09/06/2022,3,50.5,Electrónica,Efectivo,27.0
+141,Laura Garcia,11/06/2022,2,65.0,Alimentos,Tarjeta de crédito,31.0
+142,Juanita Soto,05/06/2022,1,50.0,Ropa,Transferencia bancaria,34.0
+143,Roberto Ortiz,07/06/2022,2,90.5,Juguetes,Efectivo,36.0
+144,Ana Torres,02/06/2022,1,110.0,Electrónica,Tarjeta de crédito,26.0
+145,Luis Garcia,04/06/2022,4,75.2,Alimentos,Transferencia bancaria,28.0
+146,Sofia Torres,10/06/2022,3,60.0,Ropa,Efectivo,37.0
+147,Mario Castro,08/06/2022,1,30.5,Juguetes,Tarjeta de crédito,29.0
+148,Carolina Ortiz,05/06/2022,2,45.0,Electrónica,Transferencia bancaria,24.0
+149,Andres Lopez,09/06/2022,4,35.2,Alimentos,Efectivo,41.0
+151,Josefa Castro,03/06/2022,2,70.5,Juguetes,Transferencia bancaria,32.0
+152,Miguel Rodriguez,12/06/2022,1,20.0,Electrónica,Efectivo,46.0
+153,Ana Hernandez,02/06/2022,3,55.0,Alimentos,Tarjeta de crédito,27.0
+154,Luisa Perez,08/06/2022,2,80.0,Ropa,Transferencia bancaria,33.0
+155,Daniel Ortiz,07/06/2022,1,90.0,Juguetes,Efectivo,1.0
+156,Patricia Garcia,11/06/2022,4,75.2,Electrónica,Tarjeta de crédito,29.0
+158,Maria Torres,05/06/2022,1,40.0,Ropa,Efectivo,26.0
+159,Oscar Garcia,12/06/2022,3,95.5,Juguetes,Tarjeta de crédito,30.0
+160,Andrea Soto,09/06/2022,2,50.0,Electrónica,Transferencia bancaria,25.0
+161,Laura Hernandez,06/06/2022,1,120.0,Alimentos,Efectivo,39.0
+145,Luis Garcia,04/06/2022,4,75.2,Alimentos,Transferencia bancaria,28.0
+154,Luisa Perez,08/06/2022,2,80.0,Ropa,Transferencia bancaria,33.0
+160,Andrea Soto,09/06/2022,2,50.0,Electrónica,Transferencia bancaria,25.0
